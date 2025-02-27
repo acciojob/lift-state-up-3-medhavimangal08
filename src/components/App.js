@@ -23,7 +23,7 @@ const App = () => {
         button="Option 2"
         setselectedOption={setselectedOption}
       ></ChildComponent2>
-      <p>Selected Option : {selectedOption}</p>
+      <p>Selected Option: {selectedOption}</p>
     </div>
   );
 };
